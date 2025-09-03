@@ -1,9 +1,7 @@
 available: true
 id: 0
 mainset:
-- names:
-  - name: Abbath
-    probability: 1
+- names: []
 name: Abbath
 source: null
 subsets: []
